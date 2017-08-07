@@ -1,4 +1,4 @@
-# Gantry 5 Page Preloader
+## Gantry 5 Page Preloader
  
  ## Important : - Original autor - DevilStars- https://github.com/devilstars
  
@@ -47,3 +47,5 @@ description: Customize website scroll bar
 ## type: atom
 
 icon: fa-header
+
+#  Visit Us ! https://themehow.com
