@@ -1,0 +1,39 @@
+name: Preloader
+description: PAGE PRELOADER
+type: particle
+icon: fa-file-code-o
+
+form:
+  fields:
+    enabled:
+      type: input.checkbox
+      label: Enabled
+      description: Globally enable preloader particle.
+      default: true
+
+    _info:
+      type: separator.note
+      class: alert alert-info
+      content: <strong>TIP</strong>: jQuery and jQuery UI must be enabled in Framework atom!
+
+    background:
+      type: input.colorpicker
+      label: Background
+
+    preloader:
+      type: select.select
+      label: Choose preloader
+      description: Check for updates on github.
+      placeholder: 'Select...'
+      default: pr1
+      options:
+        pr1: Day/Night
+        pr2: Pacman
+        pr3: Hexagon
+        pr4: Lines ^_^
+    copyright:
+      type: separator.note
+      class: alert alert-info
+      content: 'Developed by <a href="https://github.com/devilstars/" target="_blank">DevilStars</a> & Mantained By <a href="https://github.com/ThemeHow/Preloader/" target="_blank">ThemeHow.com</a><br><strong>Version: 1.0.1</strong>'
+
+ 
