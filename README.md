@@ -4,7 +4,7 @@
  
  ## This is a web page preloader for Gantry 5 ! 
 
-###   Browser Scroll Bar Gantry5 Installation
+###   Page Preloader Gantry5 Installation
 
 Basicaly, the installation it´s veery Easy : )
 
@@ -40,6 +40,7 @@ If you wish to be an atom , to use by default in your website with others Gantry
 
  ## Change -  type: particle - with- : type: atom 
 
+_____________________________________
  name: Scroll Bar
  
 description: Customize website scroll bar
