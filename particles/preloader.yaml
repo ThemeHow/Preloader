@@ -34,6 +34,6 @@ form:
     copyright:
       type: separator.note
       class: alert alert-info
-      content: 'Developed by <a href="https://github.com/devilstars/" target="_blank">DevilStars</a> & Mantained By <a href="https://github.com/ThemeHow/Preloader/" target="_blank">ThemeHow.com</a><br><strong>Version: 1.0.1</strong>'
+      content: 'Developed by <a href="https://github.com/devilstars/" target="_blank">DevilStars</a> & Mantained By <a href="https://themehow.com/" target="_blank">ThemeHow.com</a><br><strong>Version: 1.0.1</strong>'
 
  
